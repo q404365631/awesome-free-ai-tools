@@ -8,6 +8,7 @@
 |------|------|----------|
 | **[UseAIWriter](https://www.useaiwriter.com/)** | 12款免费AI工具：文章生成、邮件写作、社媒文案、图片/视频生成、简历生成等 | ✅ 完全免费，无需注册 |
 | [ChatGPT](https://chat.openai.com/) | OpenAI 对话AI | GPT-4o mini免费 |
+| [WSUP AI](https://wsupai.app/) | 免费 AI 角色聊天，无需注册 | 完全免费，仅限 SFW |
 | [Claude](https://claude.ai/) | Anthropic 对话AI | 有限免费额度 |
 | [Kimi](https://kimi.moonshot.cn/) | 月之暗面AI助手 | 免费 |
 | [DeepSeek](https://chat.deepseek.com/) | 深度求索AI助手 | 免费 |
