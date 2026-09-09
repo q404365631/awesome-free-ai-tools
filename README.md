@@ -11,6 +11,7 @@
 | [Claude](https://claude.ai/) | Anthropic 对话AI | 有限免费额度 |
 | [Kimi](https://kimi.moonshot.cn/) | 月之暗面AI助手 | 免费 |
 | [DeepSeek](https://chat.deepseek.com/) | 深度求索AI助手 | 免费 |
+| [ResumeAI](https://withresumeai.com/) | 免费 ATS 检测 + AI 简历构建（含 State of ATS 2026） | 匿名 3次/天，免费账号 10次/天 |
 
 ## 🎨 AI Image / 图片生成
 
