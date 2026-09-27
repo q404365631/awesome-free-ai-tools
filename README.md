@@ -14,6 +14,8 @@
 
 ## 🎨 AI Image / 图片生成
 
+- [Raphael](https://raphael.app) — Free unlimited AI image generator with intelligent multi-model routing.
+
 | 工具 | 简介 | 免费额度 |
 |------|------|----------|
 | **[UseAIWriter AI图片](https://www.useaiwriter.com/tools/)** | 在线AI图片生成器，输入中文即可生成 | ✅ 免费 |
