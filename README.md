@@ -16,6 +16,8 @@
 
 | 工具 | 简介 | 免费额度 |
 |------|------|----------|
+| **[TeslaWraps](https://teslawraps.design)** | 浏览器端 Tesla 贴膜设计；核心编辑+PNG 免费无需账号 | ✅ 免费 |
+| **[PromptImage](https://promptimage.cloud)** | 免费 AI 图片/视频工作室与提示词库 | ✅ 免费额度 |
 | **[UseAIWriter AI图片](https://www.useaiwriter.com/tools/)** | 在线AI图片生成器，输入中文即可生成 | ✅ 免费 |
 | [Leonardo AI](https://leonardo.ai/) | AI艺术生成 | 每日150 tokens |
 | [Playground AI](https://playgroundai.com/) | AI图像创作 | 每日免费额度 |
@@ -24,6 +26,10 @@
 
 | 工具 | 简介 | 免费额度 |
 |------|------|----------|
+| **[GrokVideo Studio](https://grokvideogenerator.dev)** | 独立 AI 视频工作室（非官方 xAI） | 试用额度 |
+| **[Alors On Danse Video Maker](https://alorsondansevideo.com)** | 独立 AI 视频工作室（非官方 xAI） | 试用额度 |
+| **[Bad Times AI](https://badtimesai.dev)** | 独立 AI 视频工作室（非官方 xAI） | 试用额度 |
+| **[I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com)** | 独立 AI 视频工作室（非官方 xAI） | 试用额度 |
 | **[UseAIWriter AI视频](https://www.useaiwriter.com/tools/)** | 在线AI视频生成器 | ✅ 免费 |
 | [Runway](https://runwayml.com/) | AI视频编辑 | 有限免费额度 |
 | [CapCut](https://www.capcut.com/) | 剪映国际版 | 免费 |
