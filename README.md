@@ -26,6 +26,7 @@
 |------|------|----------|
 | **[UseAIWriter AI视频](https://www.useaiwriter.com/tools/)** | 在线AI视频生成器 | ✅ 免费 |
 | [Runway](https://runwayml.com/) | AI视频编辑 | 有限免费额度 |
+| [Cyanvid](https://cyanvid.com/?utm_source=q404365631-awesome-free-ai-tools&utm_medium=directory&utm_campaign=backlinks) | 从文本或图片生成 AI 视频；生成前显示积分报价 | 8 欢迎积分 |
 | [CapCut](https://www.capcut.com/) | 剪映国际版 | 免费 |
 
 ## 🔧 AI Productivity / 效率工具
